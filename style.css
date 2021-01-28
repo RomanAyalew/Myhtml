@@ -1,0 +1,31 @@
+body {
+  background-color:rgb(177, 149, 133);
+}
+
+h1 {
+  color: rgb(43, 226, 186);
+  font-size: 50px;
+  text-align: center;
+} 
+
+p {
+  color: rgb(8, 7, 8);
+  background-color: rgba(238, 255, 0, 0.747);
+}
+article {
+    text-align: center;
+}
+
+
+ul {
+
+  text-align: center;
+}
+
+li {
+  border: solid rgb(0, 0, 0) 3px;
+  display: inline;
+  background-color: #3fc12b;
+  padding: 12px;
+  margin: 60px; 
+}
