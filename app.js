@@ -11,3 +11,12 @@ if (quetionOne === 'yes'){
 }
 food();
 
+
+function imagesOnScreen(){
+  userAnswer = prompt('How many dinners would you like?!');
+  for (let i = 0; i < userAnswer;i++){
+      document.write('<img src="img/dinner.jpg">')
+  }
+}
+imagesOnScreen();
+
